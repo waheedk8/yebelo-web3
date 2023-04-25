@@ -1,0 +1,17 @@
+write a smartcontract using remix IDE
+- Copy paste Yebelo.sol into remix IDE.
+- Compile and Deploy the contract
+- Copy the address of the smart contract 
+- In the "transferToContract" function , pasted the address of the smart contract and the amount of tokens you'd like to transfer. Execute the function
+- After a successful transfer, copy the address of the wallet used to deploy the contract (mostly the address1)
+- Paste the address of the wallet copied in the previous step and run the function.
+- After a successful transfer, you can see the slab assigned
+
+
+
+    
+transaction hash : 0x42a81fb95ee50f7cbf733d74caed952b3c4554da6bf52e8f58d117927ea19648
+from	:0x3091206893cd4fa29e263E3D2e5C699878463F94 (my metamask wallet)
+to :	Yebelo.assignSlab() 0x3b4549264615414EcF99Ab567D729c0Af85428D8
+
+you can see total supplu value also by clicking totalSupply_
